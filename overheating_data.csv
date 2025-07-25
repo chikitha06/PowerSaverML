@@ -1,0 +1,1001 @@
+cpu_usage,battery_level,screen_brightness,app_type,charging_status,is_overheating
+96,90,66,Game,Yes,1
+56,57,62,Productivity,Yes,0
+90,19,55,Video,No,0
+83,52,96,Video,No,1
+71,82,88,Social Media,No,0
+100,85,58,Game,Yes,1
+77,35,51,Social Media,Yes,0
+42,86,80,Productivity,Yes,0
+47,88,76,Productivity,No,0
+19,95,100,Game,No,0
+100,46,86,Game,Yes,1
+97,43,71,Game,Yes,1
+70,41,94,Social Media,No,0
+74,39,57,Social Media,No,0
+91,61,99,Game,Yes,1
+99,35,78,Game,Yes,1
+82,28,67,Video,Yes,0
+11,85,73,Game,No,0
+52,48,64,Productivity,Yes,0
+98,22,77,Game,Yes,1
+81,94,56,Video,No,0
+96,27,78,Game,Yes,1
+65,12,87,Social Media,Yes,0
+80,46,96,Social Media,No,0
+11,66,90,Game,No,0
+79,50,73,Video,No,0
+92,40,86,Game,Yes,1
+88,62,55,Video,Yes,0
+53,63,82,Productivity,No,0
+18,57,56,Game,No,0
+79,78,92,Video,No,0
+36,76,59,Productivity,No,0
+63,51,69,Social Media,No,0
+73,33,76,Social Media,No,0
+70,71,64,Social Media,No,0
+93,48,73,Game,Yes,1
+74,85,60,Video,No,0
+71,10,92,Social Media,No,0
+83,18,59,Video,Yes,0
+98,75,71,Game,Yes,1
+13,16,87,Game,No,0
+89,99,56,Video,Yes,0
+33,18,96,Productivity,Yes,0
+50,29,63,Productivity,Yes,0
+75,75,79,Social Media,No,0
+90,51,61,Game,Yes,0
+60,46,100,Productivity,Yes,0
+17,100,95,Game,No,0
+19,93,62,Game,No,0
+33,99,75,Productivity,No,0
+72,37,65,Social Media,No,0
+53,75,53,Productivity,Yes,0
+14,57,88,Game,No,0
+74,61,58,Video,Yes,0
+90,10,95,Game,Yes,1
+17,94,94,Game,No,0
+70,18,87,Video,No,0
+40,57,92,Productivity,Yes,0
+72,34,53,Social Media,Yes,0
+31,17,67,Productivity,Yes,0
+73,28,98,Social Media,No,0
+12,20,70,Game,No,0
+84,26,54,Video,Yes,0
+75,42,67,Video,Yes,0
+85,58,93,Video,Yes,1
+43,39,94,Productivity,Yes,0
+67,11,65,Social Media,Yes,0
+89,85,83,Video,Yes,0
+74,60,71,Video,No,0
+25,16,56,Game,No,0
+49,17,70,Productivity,Yes,0
+67,22,84,Social Media,No,0
+50,32,75,Productivity,No,0
+60,81,51,Productivity,Yes,0
+55,54,100,Productivity,No,0
+78,37,51,Video,Yes,0
+100,14,95,Game,Yes,1
+60,88,57,Social Media,No,0
+95,56,50,Game,Yes,1
+78,30,88,Video,No,0
+73,66,96,Video,Yes,1
+80,88,88,Video,No,0
+77,55,86,Social Media,No,0
+73,46,77,Social Media,No,0
+96,10,90,Game,Yes,1
+74,12,64,Social Media,Yes,0
+77,97,50,Social Media,No,0
+60,95,66,Social Media,Yes,0
+72,83,51,Video,Yes,0
+88,84,88,Video,No,1
+41,14,53,Productivity,No,0
+71,52,77,Video,No,0
+80,12,62,Social Media,Yes,0
+92,26,94,Game,Yes,1
+89,92,53,Video,No,0
+66,51,76,Social Media,No,0
+81,95,83,Video,No,0
+97,95,88,Game,Yes,1
+61,93,84,Social Media,Yes,0
+69,83,65,Social Media,Yes,0
+56,97,54,Productivity,Yes,0
+74,36,97,Social Media,Yes,0
+20,19,66,Game,No,0
+88,82,82,Video,No,0
+97,85,98,Game,Yes,1
+93,68,63,Game,Yes,1
+11,27,85,Game,No,0
+90,80,66,Game,Yes,0
+79,27,85,Social Media,No,0
+90,37,93,Game,Yes,1
+68,33,99,Social Media,Yes,0
+74,97,68,Social Media,Yes,0
+96,76,68,Game,Yes,1
+57,44,67,Productivity,No,0
+67,52,98,Social Media,No,0
+70,87,51,Video,Yes,0
+24,50,94,Game,No,0
+72,86,64,Video,Yes,0
+91,45,56,Game,Yes,1
+23,47,61,Game,No,0
+48,15,85,Productivity,Yes,0
+30,43,81,Productivity,No,0
+75,87,74,Social Media,No,0
+78,17,85,Video,Yes,0
+24,67,69,Game,No,0
+11,83,67,Game,No,0
+36,93,85,Productivity,Yes,0
+78,77,77,Video,No,0
+92,80,52,Game,Yes,1
+75,66,92,Social Media,Yes,0
+60,48,64,Social Media,No,0
+79,81,100,Social Media,Yes,0
+33,82,79,Productivity,Yes,0
+37,11,66,Productivity,No,0
+73,28,96,Video,No,0
+63,51,63,Social Media,No,0
+76,49,63,Social Media,Yes,0
+34,19,58,Productivity,Yes,0
+14,88,62,Game,No,0
+92,41,93,Game,Yes,1
+44,34,62,Productivity,No,0
+100,65,88,Game,Yes,1
+83,46,51,Video,No,0
+17,65,58,Game,No,0
+68,11,78,Social Media,Yes,0
+85,46,93,Video,No,1
+96,80,53,Game,Yes,1
+66,66,99,Social Media,No,0
+38,85,56,Productivity,No,0
+59,59,72,Productivity,No,0
+39,48,54,Productivity,No,0
+69,29,100,Social Media,Yes,0
+54,87,77,Productivity,No,0
+85,65,89,Video,Yes,1
+14,78,90,Game,No,0
+96,38,85,Game,Yes,1
+99,69,95,Game,Yes,1
+76,41,92,Social Media,No,0
+67,53,72,Social Media,No,0
+22,56,91,Game,No,0
+42,28,74,Productivity,No,0
+77,82,74,Social Media,Yes,0
+92,58,85,Game,Yes,1
+60,13,76,Productivity,No,0
+79,39,83,Video,No,0
+82,30,73,Video,No,0
+54,90,51,Productivity,Yes,0
+99,31,72,Game,Yes,1
+80,74,85,Video,Yes,0
+82,39,66,Video,No,0
+34,91,82,Productivity,No,0
+73,14,56,Social Media,No,0
+10,28,54,Game,No,0
+99,44,76,Game,Yes,1
+50,32,69,Productivity,No,0
+58,54,53,Productivity,Yes,0
+13,26,52,Game,No,0
+50,77,53,Productivity,No,0
+90,47,56,Game,Yes,0
+71,58,71,Social Media,Yes,0
+33,91,86,Productivity,No,0
+63,55,74,Social Media,Yes,0
+40,73,72,Productivity,No,0
+30,42,84,Productivity,No,0
+49,52,76,Productivity,No,0
+15,57,81,Game,No,0
+89,51,87,Video,Yes,1
+30,87,92,Productivity,Yes,0
+36,84,85,Productivity,No,0
+15,23,89,Game,No,0
+78,37,50,Video,Yes,0
+12,12,78,Game,No,0
+89,51,88,Video,No,1
+71,52,72,Video,No,0
+46,58,67,Productivity,Yes,0
+59,81,99,Productivity,Yes,0
+31,10,56,Productivity,Yes,0
+77,29,93,Social Media,No,0
+70,14,96,Video,No,0
+41,15,89,Productivity,No,0
+80,95,83,Video,Yes,0
+96,16,62,Game,Yes,1
+57,29,78,Productivity,Yes,0
+74,27,89,Social Media,Yes,0
+13,63,88,Game,No,0
+17,24,85,Game,No,0
+86,97,70,Video,Yes,0
+83,42,83,Video,Yes,0
+86,49,64,Video,Yes,0
+16,88,61,Game,No,0
+72,98,92,Video,Yes,1
+93,91,79,Game,Yes,1
+40,44,88,Productivity,Yes,0
+31,74,91,Productivity,Yes,0
+68,14,70,Social Media,No,0
+90,99,70,Game,Yes,0
+21,56,71,Game,No,0
+77,72,95,Video,Yes,1
+97,99,90,Game,Yes,1
+80,42,73,Video,Yes,0
+70,79,95,Social Media,Yes,0
+89,16,80,Video,No,0
+100,57,90,Game,Yes,1
+32,14,63,Productivity,Yes,0
+62,56,71,Social Media,No,0
+64,30,75,Social Media,Yes,0
+73,74,93,Video,Yes,1
+72,39,66,Social Media,Yes,0
+23,91,68,Game,No,0
+100,66,85,Game,Yes,1
+95,24,75,Game,Yes,1
+87,65,90,Video,No,1
+85,25,66,Video,Yes,0
+41,41,66,Productivity,Yes,0
+82,70,99,Video,Yes,1
+79,11,70,Social Media,Yes,0
+72,54,82,Social Media,No,0
+12,51,68,Game,No,0
+75,64,67,Social Media,Yes,0
+79,19,64,Video,Yes,0
+33,36,78,Productivity,No,0
+69,42,88,Social Media,Yes,0
+72,78,75,Video,Yes,0
+52,28,52,Productivity,Yes,0
+32,68,58,Productivity,Yes,0
+25,42,92,Game,No,0
+69,95,53,Social Media,Yes,0
+98,81,73,Game,Yes,1
+68,16,57,Social Media,Yes,0
+78,51,80,Social Media,No,0
+70,25,68,Video,Yes,0
+13,25,74,Game,No,0
+72,85,57,Social Media,No,0
+33,27,71,Productivity,No,0
+78,10,55,Social Media,Yes,0
+74,16,65,Video,No,0
+88,21,90,Video,No,1
+90,37,62,Video,No,0
+50,81,74,Productivity,No,0
+71,37,57,Video,Yes,0
+100,61,54,Game,Yes,1
+61,58,69,Social Media,No,0
+69,87,72,Social Media,Yes,0
+34,43,64,Productivity,Yes,0
+12,20,52,Game,No,0
+71,61,95,Social Media,No,0
+89,53,93,Video,Yes,1
+100,60,52,Game,Yes,1
+88,65,99,Video,Yes,1
+12,24,68,Game,No,0
+31,60,93,Productivity,No,0
+85,44,60,Video,No,0
+56,52,77,Productivity,No,0
+94,48,73,Game,Yes,1
+46,45,70,Productivity,No,0
+77,43,85,Social Media,Yes,0
+74,30,68,Social Media,Yes,0
+94,67,93,Game,Yes,1
+46,73,88,Productivity,Yes,0
+39,60,52,Productivity,Yes,0
+70,96,72,Social Media,No,0
+60,45,55,Productivity,No,0
+19,22,76,Game,No,0
+36,92,88,Productivity,Yes,0
+35,26,91,Productivity,No,0
+16,16,51,Game,No,0
+42,23,98,Productivity,No,0
+76,95,64,Video,Yes,0
+100,46,58,Game,Yes,1
+66,28,59,Social Media,No,0
+42,25,71,Productivity,Yes,0
+78,73,56,Video,No,0
+68,99,93,Social Media,Yes,0
+23,63,77,Game,No,0
+12,50,86,Game,No,0
+94,12,86,Game,Yes,1
+43,83,95,Productivity,Yes,0
+98,45,51,Game,Yes,1
+46,16,55,Productivity,Yes,0
+74,99,81,Social Media,Yes,0
+51,20,73,Productivity,No,0
+33,38,89,Productivity,No,0
+48,39,100,Productivity,No,0
+80,30,60,Social Media,Yes,0
+63,27,65,Social Media,Yes,0
+92,34,99,Game,Yes,1
+78,80,53,Social Media,No,0
+74,70,100,Video,Yes,1
+49,41,50,Productivity,Yes,0
+80,46,52,Video,Yes,0
+99,92,78,Game,Yes,1
+33,30,54,Productivity,No,0
+71,99,72,Social Media,Yes,0
+76,51,63,Social Media,No,0
+99,12,66,Game,Yes,1
+33,69,57,Productivity,Yes,0
+21,35,98,Game,No,0
+76,26,56,Video,No,0
+53,47,82,Productivity,Yes,0
+92,42,68,Game,Yes,1
+74,88,55,Video,Yes,0
+60,78,69,Social Media,Yes,0
+21,59,78,Game,No,0
+78,22,80,Social Media,Yes,0
+76,52,97,Social Media,Yes,0
+61,64,97,Social Media,No,0
+75,39,99,Social Media,Yes,0
+64,95,52,Social Media,No,0
+44,97,89,Productivity,No,0
+48,94,73,Productivity,Yes,0
+73,85,62,Video,Yes,0
+51,36,79,Productivity,No,0
+30,45,69,Productivity,No,0
+68,73,66,Social Media,Yes,0
+70,29,63,Social Media,Yes,0
+65,76,81,Social Media,Yes,0
+45,100,61,Productivity,Yes,0
+43,18,78,Productivity,Yes,0
+93,88,73,Game,Yes,1
+76,10,75,Social Media,No,0
+100,22,71,Game,Yes,1
+43,42,67,Productivity,Yes,0
+90,49,73,Video,Yes,0
+43,40,55,Productivity,Yes,0
+60,45,90,Productivity,Yes,0
+52,86,52,Productivity,Yes,0
+100,61,55,Game,Yes,1
+71,20,70,Social Media,No,0
+90,10,66,Video,No,0
+69,31,99,Social Media,Yes,0
+50,48,97,Productivity,Yes,0
+39,74,60,Productivity,No,0
+74,70,52,Video,No,0
+97,97,78,Game,Yes,1
+88,40,58,Video,No,0
+91,95,69,Game,Yes,1
+63,74,90,Social Media,Yes,0
+34,60,77,Productivity,Yes,0
+65,26,54,Social Media,Yes,0
+22,73,91,Game,No,0
+91,15,57,Game,Yes,1
+96,17,78,Game,Yes,1
+85,41,82,Video,Yes,0
+61,56,89,Social Media,Yes,0
+42,38,51,Productivity,No,0
+40,46,100,Productivity,Yes,0
+73,63,63,Social Media,No,0
+63,26,63,Social Media,Yes,0
+60,84,76,Social Media,No,0
+95,29,64,Game,Yes,1
+74,55,85,Video,Yes,0
+96,73,70,Game,Yes,1
+78,43,56,Video,No,0
+60,65,62,Social Media,Yes,0
+62,24,61,Social Media,No,0
+19,93,57,Game,No,0
+65,97,74,Social Media,No,0
+36,22,76,Productivity,Yes,0
+66,13,75,Social Media,No,0
+49,79,77,Productivity,Yes,0
+79,29,55,Video,No,0
+30,43,50,Productivity,No,0
+72,43,58,Video,Yes,0
+73,84,92,Video,Yes,1
+97,49,61,Game,Yes,1
+98,86,65,Game,Yes,1
+84,57,63,Video,Yes,0
+78,12,84,Video,Yes,0
+93,49,66,Game,Yes,1
+80,58,75,Video,Yes,0
+97,67,54,Game,Yes,1
+51,65,53,Productivity,Yes,0
+79,26,100,Social Media,No,0
+96,55,80,Game,Yes,1
+32,76,81,Productivity,Yes,0
+40,34,96,Productivity,No,0
+94,12,77,Game,Yes,1
+77,44,84,Social Media,Yes,0
+82,31,88,Video,Yes,1
+96,87,98,Game,Yes,1
+72,50,55,Social Media,Yes,0
+79,62,72,Social Media,Yes,0
+80,98,54,Social Media,No,0
+52,43,62,Productivity,No,0
+11,72,54,Game,No,0
+98,85,71,Game,Yes,1
+23,80,64,Game,No,0
+90,35,60,Video,Yes,0
+74,74,52,Social Media,Yes,0
+88,16,87,Video,No,1
+40,14,77,Productivity,No,0
+12,76,99,Game,No,0
+79,100,80,Video,No,0
+100,54,99,Game,Yes,1
+76,38,59,Video,No,0
+67,49,70,Social Media,No,0
+14,75,90,Game,No,0
+74,68,68,Social Media,No,0
+96,66,97,Game,Yes,1
+79,81,53,Social Media,No,0
+95,92,85,Game,Yes,1
+98,84,58,Game,Yes,1
+100,31,97,Game,Yes,1
+93,72,60,Game,Yes,1
+32,10,85,Productivity,No,0
+83,48,65,Video,Yes,0
+90,58,95,Video,Yes,1
+77,11,91,Video,Yes,1
+90,43,98,Video,Yes,1
+36,12,62,Productivity,No,0
+41,86,100,Productivity,Yes,0
+19,14,74,Game,No,0
+77,96,96,Social Media,Yes,0
+13,53,86,Game,No,0
+56,44,96,Productivity,Yes,0
+79,92,75,Video,Yes,0
+90,32,58,Video,Yes,0
+99,94,69,Game,Yes,1
+25,46,79,Game,No,0
+81,68,77,Video,Yes,0
+47,60,58,Productivity,Yes,0
+46,45,70,Productivity,Yes,0
+62,25,82,Social Media,No,0
+76,90,54,Social Media,Yes,0
+41,37,53,Productivity,No,0
+20,66,57,Game,No,0
+89,86,51,Video,Yes,0
+46,80,87,Productivity,No,0
+37,53,64,Productivity,No,0
+65,63,89,Social Media,No,0
+78,95,90,Video,No,0
+64,52,77,Social Media,No,0
+97,35,92,Game,Yes,1
+42,54,97,Productivity,Yes,0
+71,66,82,Video,Yes,0
+75,74,74,Social Media,Yes,0
+72,33,97,Video,Yes,1
+75,65,55,Social Media,Yes,0
+15,25,63,Game,No,0
+78,43,94,Social Media,Yes,0
+81,95,98,Video,Yes,1
+85,38,82,Video,No,0
+81,10,63,Video,No,0
+85,94,98,Video,No,1
+85,93,100,Video,No,1
+78,20,74,Video,No,0
+37,100,76,Productivity,No,0
+60,20,98,Social Media,Yes,0
+25,18,57,Game,No,0
+61,80,78,Social Media,Yes,0
+75,93,99,Social Media,Yes,0
+97,55,65,Game,Yes,1
+95,53,74,Game,Yes,1
+61,26,94,Social Media,No,0
+50,38,70,Productivity,No,0
+80,52,90,Video,No,0
+93,54,96,Game,Yes,1
+78,26,67,Social Media,Yes,0
+80,51,83,Video,Yes,0
+24,83,56,Game,No,0
+61,81,74,Social Media,Yes,0
+76,46,73,Social Media,Yes,0
+11,23,53,Game,No,0
+89,45,59,Video,Yes,0
+100,19,61,Game,Yes,1
+83,38,52,Video,Yes,0
+87,71,89,Video,No,1
+74,91,61,Video,Yes,0
+36,60,62,Productivity,Yes,0
+52,24,80,Productivity,Yes,0
+12,21,81,Game,No,0
+49,21,70,Productivity,No,0
+67,93,89,Social Media,No,0
+65,59,78,Social Media,No,0
+85,63,70,Video,No,0
+90,92,92,Game,Yes,1
+55,44,96,Productivity,No,0
+74,57,72,Social Media,No,0
+12,98,50,Game,No,0
+37,95,55,Productivity,No,0
+76,30,78,Social Media,No,0
+12,31,66,Game,No,0
+72,22,56,Video,Yes,0
+14,60,89,Game,No,0
+93,12,96,Game,Yes,1
+69,92,71,Social Media,No,0
+49,73,91,Productivity,Yes,0
+76,15,62,Video,Yes,0
+92,87,67,Game,Yes,1
+71,80,67,Video,Yes,0
+16,89,54,Game,No,0
+99,58,72,Game,Yes,1
+90,22,60,Game,Yes,0
+71,76,50,Social Media,Yes,0
+43,31,54,Productivity,Yes,0
+50,12,75,Productivity,Yes,0
+89,98,59,Video,No,0
+73,27,90,Video,Yes,0
+94,32,57,Game,Yes,1
+45,98,53,Productivity,Yes,0
+16,30,60,Game,No,0
+31,67,90,Productivity,Yes,0
+90,75,86,Game,Yes,1
+50,47,80,Productivity,No,0
+52,72,74,Productivity,Yes,0
+83,99,57,Video,No,0
+77,78,59,Video,No,0
+45,59,55,Productivity,Yes,0
+50,35,51,Productivity,No,0
+75,30,97,Social Media,Yes,0
+57,10,72,Productivity,No,0
+69,72,96,Social Media,Yes,0
+24,77,100,Game,No,0
+70,35,60,Social Media,Yes,0
+71,34,95,Social Media,No,0
+100,73,100,Game,Yes,1
+37,39,54,Productivity,No,0
+57,57,67,Productivity,No,0
+79,36,91,Video,Yes,1
+85,36,87,Video,Yes,1
+80,90,64,Video,Yes,0
+74,89,76,Video,No,0
+80,88,79,Social Media,Yes,0
+46,24,97,Productivity,No,0
+64,24,97,Social Media,No,0
+46,50,59,Productivity,No,0
+20,46,84,Game,No,0
+77,91,73,Video,Yes,0
+79,43,99,Video,Yes,1
+17,44,100,Game,No,0
+80,40,58,Video,No,0
+49,83,91,Productivity,Yes,0
+72,71,52,Video,Yes,0
+82,10,99,Video,Yes,1
+38,65,81,Productivity,No,0
+72,15,79,Video,Yes,0
+60,66,51,Productivity,No,0
+62,57,69,Social Media,No,0
+54,48,65,Productivity,Yes,0
+52,21,95,Productivity,No,0
+77,57,58,Video,No,0
+75,11,94,Social Media,Yes,0
+75,25,72,Video,No,0
+48,45,73,Productivity,No,0
+73,30,91,Social Media,Yes,0
+20,22,62,Game,No,0
+89,78,54,Video,Yes,0
+80,77,58,Social Media,No,0
+61,40,52,Social Media,Yes,0
+96,55,59,Game,Yes,1
+89,20,74,Video,Yes,0
+69,81,56,Social Media,Yes,0
+53,57,70,Productivity,Yes,0
+73,20,83,Social Media,No,0
+19,46,94,Game,No,0
+99,39,60,Game,Yes,1
+73,67,62,Social Media,Yes,0
+55,100,74,Productivity,Yes,0
+89,94,59,Video,Yes,0
+49,34,53,Productivity,Yes,0
+59,38,60,Productivity,No,0
+86,22,63,Video,No,0
+98,51,75,Game,Yes,1
+38,94,92,Productivity,Yes,0
+18,91,60,Game,No,0
+85,19,69,Video,Yes,0
+100,66,84,Game,Yes,1
+78,25,61,Video,No,0
+55,19,58,Productivity,Yes,0
+45,87,88,Productivity,Yes,0
+24,37,63,Game,No,0
+86,42,77,Video,No,0
+83,34,71,Video,Yes,0
+58,85,57,Productivity,Yes,0
+64,89,93,Social Media,Yes,0
+18,36,76,Game,No,0
+15,47,67,Game,No,0
+76,15,51,Social Media,No,0
+34,39,59,Productivity,Yes,0
+97,52,89,Game,Yes,1
+83,78,50,Video,No,0
+40,28,67,Productivity,No,0
+71,84,72,Social Media,Yes,0
+48,71,62,Productivity,Yes,0
+58,62,86,Productivity,No,0
+75,60,61,Video,Yes,0
+82,100,95,Video,Yes,1
+77,56,50,Social Media,No,0
+79,100,92,Video,Yes,1
+88,40,64,Video,No,0
+72,65,63,Social Media,No,0
+19,10,70,Game,No,0
+91,72,68,Game,Yes,1
+39,26,77,Productivity,No,0
+67,83,86,Social Media,Yes,0
+41,100,75,Productivity,Yes,0
+46,26,56,Productivity,Yes,0
+32,26,50,Productivity,Yes,0
+71,36,94,Social Media,No,0
+90,54,76,Video,No,0
+31,93,70,Productivity,Yes,0
+18,67,92,Game,No,0
+76,20,97,Social Media,Yes,0
+95,25,96,Game,Yes,1
+96,13,100,Game,Yes,1
+74,83,50,Video,No,0
+78,70,72,Video,No,0
+17,77,64,Game,No,0
+51,46,52,Productivity,No,0
+35,53,82,Productivity,No,0
+67,71,66,Social Media,Yes,0
+92,23,96,Game,Yes,1
+77,100,76,Video,No,0
+62,38,60,Social Media,Yes,0
+91,49,90,Game,Yes,1
+15,88,69,Game,No,0
+87,50,52,Video,Yes,0
+62,65,62,Social Media,Yes,0
+73,31,79,Social Media,No,0
+58,54,61,Productivity,Yes,0
+75,42,64,Video,No,0
+33,58,88,Productivity,Yes,0
+83,80,61,Video,Yes,0
+86,99,68,Video,No,0
+19,47,83,Game,No,0
+75,62,82,Social Media,Yes,0
+66,36,93,Social Media,Yes,0
+59,58,65,Productivity,No,0
+95,69,88,Game,Yes,1
+95,35,51,Game,Yes,1
+37,83,74,Productivity,Yes,0
+74,52,56,Social Media,No,0
+19,54,73,Game,No,0
+77,19,50,Video,No,0
+72,32,55,Social Media,No,0
+51,15,81,Productivity,No,0
+44,96,82,Productivity,No,0
+68,10,81,Social Media,Yes,0
+69,95,69,Social Media,No,0
+85,42,56,Video,Yes,0
+90,35,87,Video,Yes,1
+39,29,97,Productivity,Yes,0
+43,44,93,Productivity,No,0
+21,70,88,Game,No,0
+56,15,57,Productivity,No,0
+70,92,51,Social Media,No,0
+87,76,51,Video,No,0
+47,81,100,Productivity,No,0
+94,91,58,Game,Yes,1
+65,82,62,Social Media,Yes,0
+64,44,77,Social Media,No,0
+37,29,89,Productivity,No,0
+70,54,90,Social Media,Yes,0
+49,40,63,Productivity,Yes,0
+72,34,74,Video,No,0
+12,22,74,Game,No,0
+44,79,60,Productivity,Yes,0
+50,45,83,Productivity,Yes,0
+81,41,99,Video,No,1
+60,71,82,Social Media,Yes,0
+51,76,65,Productivity,Yes,0
+37,95,78,Productivity,Yes,0
+74,95,95,Video,Yes,1
+36,40,65,Productivity,Yes,0
+78,77,51,Social Media,No,0
+79,55,99,Social Media,No,0
+22,59,99,Game,No,0
+60,55,59,Social Media,Yes,0
+51,79,52,Productivity,No,0
+94,46,64,Game,Yes,1
+47,90,51,Productivity,Yes,0
+39,25,96,Productivity,No,0
+30,30,66,Productivity,Yes,0
+21,84,100,Game,No,0
+91,26,54,Game,Yes,1
+68,50,61,Social Media,No,0
+19,94,51,Game,No,0
+13,91,78,Game,No,0
+50,100,94,Productivity,No,0
+65,99,75,Social Media,No,0
+80,71,64,Video,No,0
+59,100,89,Productivity,No,0
+55,99,66,Productivity,Yes,0
+14,67,56,Game,No,0
+66,27,76,Social Media,No,0
+73,84,85,Social Media,Yes,0
+65,92,56,Social Media,Yes,0
+79,94,50,Video,Yes,0
+98,98,97,Game,Yes,1
+78,51,66,Video,Yes,0
+70,47,73,Video,No,0
+75,51,67,Video,Yes,0
+49,90,96,Productivity,Yes,0
+73,86,81,Social Media,No,0
+17,50,74,Game,No,0
+77,77,61,Video,Yes,0
+33,20,51,Productivity,No,0
+35,47,84,Productivity,Yes,0
+76,44,59,Social Media,No,0
+35,60,83,Productivity,Yes,0
+69,63,100,Social Media,No,0
+89,45,62,Video,No,0
+60,51,81,Social Media,Yes,0
+70,32,77,Video,No,0
+31,88,95,Productivity,Yes,0
+46,52,81,Productivity,No,0
+80,43,99,Video,No,0
+51,75,78,Productivity,No,0
+75,64,74,Social Media,No,0
+60,78,59,Productivity,Yes,0
+78,32,93,Social Media,No,0
+66,67,95,Social Media,No,0
+59,34,85,Productivity,No,0
+49,86,73,Productivity,Yes,0
+55,29,82,Productivity,No,0
+85,93,50,Video,Yes,0
+42,71,51,Productivity,Yes,0
+80,62,97,Video,No,0
+80,66,61,Video,Yes,0
+54,85,57,Productivity,Yes,0
+64,69,65,Social Media,No,0
+60,78,63,Social Media,No,0
+74,90,77,Video,No,0
+88,34,53,Video,No,0
+83,16,52,Video,Yes,0
+67,44,95,Social Media,Yes,0
+72,81,58,Social Media,No,0
+79,74,77,Social Media,Yes,0
+47,15,58,Productivity,Yes,0
+85,39,81,Video,No,0
+19,75,58,Game,No,0
+90,23,92,Video,Yes,1
+48,37,90,Productivity,No,0
+97,18,62,Game,Yes,1
+39,70,57,Productivity,Yes,0
+23,21,98,Game,No,0
+90,80,75,Video,No,0
+92,82,80,Game,Yes,1
+64,51,83,Social Media,Yes,0
+80,41,52,Video,Yes,0
+37,37,55,Productivity,No,0
+99,100,94,Game,Yes,1
+76,56,90,Social Media,Yes,0
+16,53,58,Game,No,0
+86,29,79,Video,No,0
+80,25,93,Video,No,0
+73,60,63,Social Media,Yes,0
+89,93,64,Video,No,0
+66,26,77,Social Media,No,0
+40,99,85,Productivity,Yes,0
+83,78,96,Video,Yes,1
+80,100,98,Video,No,0
+70,73,89,Social Media,No,0
+20,28,89,Game,No,0
+62,25,100,Social Media,No,0
+88,91,86,Video,Yes,1
+77,73,76,Video,No,0
+53,17,52,Productivity,No,0
+24,48,53,Game,No,0
+53,72,69,Productivity,Yes,0
+86,47,61,Video,Yes,0
+44,81,99,Productivity,Yes,0
+47,17,69,Productivity,No,0
+62,18,89,Social Media,No,0
+11,15,78,Game,No,0
+91,10,85,Game,Yes,1
+72,35,52,Video,Yes,0
+99,68,65,Game,Yes,1
+80,60,65,Social Media,Yes,0
+98,15,56,Game,Yes,1
+62,24,77,Social Media,Yes,0
+56,50,56,Productivity,No,0
+17,37,51,Game,No,0
+95,99,93,Game,Yes,1
+41,78,74,Productivity,No,0
+77,68,55,Video,No,0
+98,99,85,Game,Yes,1
+32,65,51,Productivity,No,0
+71,82,65,Social Media,No,0
+95,84,64,Game,Yes,1
+87,20,73,Video,No,0
+84,23,61,Video,No,0
+92,80,80,Game,Yes,1
+80,40,74,Video,No,0
+24,12,71,Game,No,0
+86,95,71,Video,No,0
+63,71,79,Social Media,Yes,0
+22,53,84,Game,No,0
+67,86,67,Social Media,Yes,0
+50,42,67,Productivity,Yes,0
+97,65,83,Game,Yes,1
+79,76,56,Video,Yes,0
+46,41,86,Productivity,Yes,0
+86,92,72,Video,Yes,0
+49,37,83,Productivity,No,0
+39,74,91,Productivity,No,0
+67,24,64,Social Media,No,0
+95,13,74,Game,Yes,1
+47,15,92,Productivity,Yes,0
+31,78,73,Productivity,Yes,0
+73,70,81,Social Media,No,0
+21,66,60,Game,No,0
+41,36,76,Productivity,Yes,0
+94,53,60,Game,Yes,1
+56,38,63,Productivity,Yes,0
+86,41,100,Video,Yes,1
+76,92,92,Social Media,Yes,0
+38,45,69,Productivity,No,0
+71,42,79,Social Media,Yes,0
+33,31,94,Productivity,No,0
+98,62,54,Game,Yes,1
+82,59,84,Video,No,0
+99,96,54,Game,Yes,1
+76,11,95,Video,Yes,1
+72,14,74,Video,Yes,0
+57,54,61,Productivity,No,0
+20,44,97,Game,No,0
+80,36,96,Video,Yes,1
+33,17,89,Productivity,Yes,0
+86,24,62,Video,Yes,0
+70,83,97,Video,No,0
+55,36,74,Productivity,Yes,0
+65,49,97,Social Media,No,0
+88,48,62,Video,Yes,0
+74,42,87,Video,No,0
+75,29,58,Video,No,0
+60,46,87,Productivity,No,0
+99,50,95,Game,Yes,1
+65,36,67,Social Media,No,0
+89,81,90,Video,No,1
+41,10,78,Productivity,Yes,0
+64,46,70,Social Media,Yes,0
+60,80,85,Productivity,No,0
+41,56,71,Productivity,No,0
+20,50,63,Game,No,0
+85,46,83,Video,Yes,0
+45,83,57,Productivity,Yes,0
+87,94,53,Video,Yes,0
+74,16,72,Social Media,Yes,0
+77,32,95,Social Media,Yes,0
+58,45,56,Productivity,Yes,0
+16,53,76,Game,No,0
+70,40,61,Video,No,0
+81,78,72,Video,Yes,0
+35,48,59,Productivity,No,0
+30,82,94,Productivity,Yes,0
+68,81,93,Social Media,No,0
+87,72,75,Video,No,0
+32,65,72,Productivity,No,0
+70,22,78,Video,Yes,0
+96,98,56,Game,Yes,1
+14,10,51,Game,No,0
+42,36,66,Productivity,No,0
+60,52,50,Productivity,No,0
+22,65,65,Game,No,0
+64,24,59,Social Media,Yes,0
+97,98,51,Game,Yes,1
+83,10,73,Video,No,0
+37,89,72,Productivity,Yes,0
+79,46,75,Video,No,0
+37,31,74,Productivity,Yes,0
+64,75,98,Social Media,No,0
+10,26,83,Game,No,0
+90,78,55,Video,Yes,0
+68,61,65,Social Media,No,0
+57,62,67,Productivity,No,0
+60,24,100,Social Media,No,0
+83,13,50,Video,Yes,0
+20,94,81,Game,No,0
+71,58,59,Video,Yes,0
+40,54,63,Productivity,No,0
+47,80,71,Productivity,Yes,0
+41,62,57,Productivity,No,0
+60,35,56,Productivity,Yes,0
+51,97,73,Productivity,Yes,0
+85,75,98,Video,No,1
+72,85,53,Video,Yes,0
+31,58,56,Productivity,Yes,0
+12,24,87,Game,No,0
+91,67,97,Game,Yes,1
+31,74,70,Productivity,Yes,0
+97,24,98,Game,Yes,1
+49,47,75,Productivity,Yes,0
+76,98,72,Social Media,No,0
+84,62,73,Video,No,0
+64,39,73,Social Media,Yes,0
+13,91,90,Game,No,0
+49,22,54,Productivity,Yes,0
+96,54,87,Game,Yes,1
+98,10,61,Game,Yes,1
+35,16,55,Productivity,Yes,0
+79,65,90,Video,No,0
+81,17,81,Video,Yes,0
+100,38,91,Game,Yes,1
+92,96,69,Game,Yes,1
+78,47,69,Social Media,Yes,0
+72,39,85,Social Media,Yes,0
+90,26,95,Game,Yes,1
+65,69,54,Social Media,No,0
+98,27,98,Game,Yes,1
+100,18,97,Game,Yes,1
+77,92,68,Video,No,0
+96,69,55,Game,Yes,1
+61,45,70,Social Media,Yes,0
+52,61,95,Productivity,Yes,0
+76,55,82,Social Media,No,0
+41,32,77,Productivity,No,0
+15,80,96,Game,No,0
+71,64,88,Video,No,0
+61,23,55,Social Media,Yes,0
+12,41,57,Game,No,0
+100,31,88,Game,Yes,1
+84,34,58,Video,No,0
+12,84,93,Game,No,0
+70,46,97,Social Media,No,0
+90,66,83,Video,Yes,0
+90,55,57,Game,Yes,0
+65,40,66,Social Media,No,0
+98,18,67,Game,Yes,1
+95,24,95,Game,Yes,1
+46,30,84,Productivity,Yes,0
+83,21,76,Video,No,0
+12,15,99,Game,No,0
+85,64,54,Video,No,0
+30,25,82,Productivity,No,0
+99,81,53,Game,Yes,1
+99,82,80,Game,Yes,1
+76,29,88,Social Media,No,0
+39,12,81,Productivity,No,0
+70,93,83,Social Media,No,0
+88,86,77,Video,No,0
+47,41,95,Productivity,No,0
+80,33,63,Video,No,0
+60,82,67,Social Media,No,0
+55,51,59,Productivity,Yes,0
+34,90,91,Productivity,No,0
+22,91,57,Game,No,0
+58,76,90,Productivity,No,0
+15,41,91,Game,No,0
+64,84,85,Social Media,Yes,0
+54,49,95,Productivity,No,0
+73,48,87,Social Media,No,0
+82,48,54,Video,No,0
+62,12,74,Social Media,No,0
+65,13,59,Social Media,No,0
+13,43,62,Game,No,0
+18,45,69,Game,No,0
+84,73,99,Video,Yes,1
+96,81,96,Game,Yes,1
+82,59,63,Video,No,0
+30,31,71,Productivity,No,0
+90,21,71,Game,Yes,0
+55,30,54,Productivity,Yes,0
+73,100,79,Video,No,0
+34,16,98,Productivity,No,0
+82,59,80,Video,Yes,0
+82,35,78,Video,Yes,0
+49,40,85,Productivity,Yes,0
+69,70,93,Social Media,No,0
+63,35,67,Social Media,Yes,0
+75,41,54,Video,No,0
+61,50,81,Social Media,No,0
+43,87,50,Productivity,Yes,0
+94,98,98,Game,Yes,1
+69,91,71,Social Media,Yes,0
+73,99,62,Social Media,Yes,0
+15,93,88,Game,No,0
+86,51,86,Video,No,1
+71,80,63,Video,No,0
+57,89,52,Productivity,Yes,0
+32,82,75,Productivity,No,0
+92,86,96,Game,Yes,1
+64,41,57,Social Media,No,0
+56,70,54,Productivity,No,0
+24,24,57,Game,No,0
+90,84,65,Game,Yes,0
+93,22,73,Game,Yes,1
+34,92,59,Productivity,No,0
+20,55,87,Game,No,0
+42,34,93,Productivity,No,0
