@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 plt.style.use("ggplot")
 
 # Step 1: Load dataset
-df = pd.read_csv("C:\Users\Atava\OneDrive\Desktop\gitdemo\PowerSaverML\overheating_data.csv")
+df = pd.read_csv("data/overheating_data.csv")
 
 # Step 2: Summary
 print("📄 Dataset Info:\n")
