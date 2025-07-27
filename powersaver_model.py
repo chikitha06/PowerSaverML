@@ -5,11 +5,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, ConfusionMatrixDisplay
 from sklearn.preprocessing import LabelEncoder
 
-# Load dataset
-df = pd.read_csv("data/overheating_data.csv")  # Adjust the path if needed
+df = pd.read_csv("data/overheating_data.csv") 
 print("Dataset shape:", df.shape)
 
-# Encode categorical features
 label_encoders = {}
 for column in df.select_dtypes(include=['object']).columns:
     le = LabelEncoder()
@@ -29,11 +27,6 @@ rf = RandomForestClassifier(random_state=42)
 rf.fit(X_train, y_train)
 y_pred_rf = rf.predict(X_test)
 
-# Train Logistic Regression
-lr = LogisticRegression(max_iter=1000)
-lr.fit(X_train, y_train)
-y_pred_lr = lr.predict(X_test)
-
 # Evaluate Random Forest
 print("\n--- Random Forest ---")
 print("Accuracy:", accuracy_score(y_test, y_pred_rf))
@@ -41,4 +34,16 @@ print("Classification Report:\n", classification_report(y_test, y_pred_rf))
 cm_rf = confusion_matrix(y_test, y_pred_rf)
 print("Confusion Matrix:\n", cm_rf)
 ConfusionMatrixDisplay(confusion_matrix=cm_rf).plot()
+
+sample = X_test.iloc[0]
+sample_df = pd.DataFrame([sample], columns=X_test.columns)
+sample_prediction = rf.predict(sample_df)[0]
+
+print("\n--- Prediction Result ---")
+if sample_prediction == 1:
+    print("⚠️ Warning: Your smartphone is likely to overheat. Consider closing some apps or reducing brightness.")
+else:
+    print("✅ All good! Your phone is operating within safe thermal limits.")
+
+
 
